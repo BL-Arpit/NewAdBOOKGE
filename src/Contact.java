@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Contact {
+public class Contact implements GetName {
     private String name;
     private String email;
     private String state;
